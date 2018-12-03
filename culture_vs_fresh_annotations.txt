@@ -1,0 +1,1094 @@
+
+1. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+2. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+3. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+4. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+5. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+6. AGTR2
+Official Symbol: AGTR2 and Name: angiotensin II receptor type 2 [Homo sapiens (human)]
+Other Aliases: AT2, ATGR2, MRX88
+Other Designations: type-2 angiotensin II receptor; angiotensin II type-2 receptor
+Chromosome: X; Location: Xq23
+Annotation: Chromosome X NC_000023.11 (116170705..116174972)
+MIM: 300034
+ID: 186
+
+7. A12M2
+adenovirus-12 chromosome modification site 1A [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1p
+Chromosome: 1; Location: 1p36
+This record was discontinued.
+ID: 5
+
+8. ACTBP7
+Official Symbol: ACTBP7 and Name: actin, beta pseudogene 7 [Homo sapiens (human)]
+Chromosome: 15; Location: 15q15.3
+Annotation: Chromosome 15 NC_000015.10 (43988474..43990265, complement)
+ID: 67
+
+9. NAT1
+Official Symbol: NAT1 and Name: N-acetyltransferase 1 [Homo sapiens (human)]
+Other Aliases: AAC1, MNAT, NAT-1, NATI
+Other Designations: arylamine N-acetyltransferase 1; N-acetyltransferase 1 (arylamine N-acetyltransferase); N-acetyltransferase type 1; arylamide acetylase 1; monomorphic arylamine N-acetyltransferase
+Chromosome: 8; Location: 8p22
+Annotation: Chromosome 8 NC_000008.11 (18170419..18223689)
+MIM: 108345
+ID: 9
+
+10. ACVR2A
+Official Symbol: ACVR2A and Name: activin A receptor type 2A [Homo sapiens (human)]
+Other Aliases: ACTRII, ACVR2
+Other Designations: activin receptor type-2A; activin A receptor, type IIA
+Chromosome: 2; Location: 2q22.3-q23.1
+Annotation: Chromosome 2 NC_000002.12 (147844517..147930827)
+MIM: 102581
+ID: 92
+
+11. AAMP
+Official Symbol: AAMP and Name: angio associated migratory cell protein [Homo sapiens (human)]
+Other Designations: angio-associated migratory cell protein
+Chromosome: 2; Location: 2q35
+Annotation: Chromosome 2 NC_000002.12 (218264127..218270209, complement)
+MIM: 603488
+ID: 14
+
+12. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+13. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+14. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+15. ACP2
+Official Symbol: ACP2 and Name: acid phosphatase 2, lysosomal [Homo sapiens (human)]
+Other Aliases: LAP
+Other Designations: lysosomal acid phosphatase
+Chromosome: 11; Location: 11p12-p11
+Annotation: Chromosome 11 NC_000011.10 (47239302..47248847, complement)
+MIM: 171650
+ID: 53
+
+16. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+17. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+18. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+19. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+20. ACADS
+Official Symbol: ACADS and Name: acyl-CoA dehydrogenase short chain [Homo sapiens (human)]
+Other Aliases: ACAD3, SCAD
+Other Designations: short-chain specific acyl-CoA dehydrogenase, mitochondrial; acyl-CoA dehydrogenase, C-2 to C-3 short chain; acyl-Coenzyme A dehydrogenase, C-2 to C-3 short chain; butyryl-CoA dehydrogenase; epididymis secretory sperm binding protein; mitochondrial short-chain specific acyl-CoA dehydrogenase; unsaturated acyl-CoA reductase
+Chromosome: 12; Location: 12q24.31
+Annotation: Chromosome 12 NC_000012.12 (120725738..120740008)
+MIM: 606885
+ID: 35
+
+21. ADH1A
+Official Symbol: ADH1A and Name: alcohol dehydrogenase 1A (class I), alpha polypeptide [Homo sapiens (human)]
+Other Aliases: ADH1
+Other Designations: alcohol dehydrogenase 1A; ADH, alpha subunit; alcohol dehydrogenase 1 (class I), alpha polypeptide; alcohol dehydrogenase subunit alpha; aldehyde reductase
+Chromosome: 4; Location: 4q23
+Annotation: Chromosome 4 NC_000004.12 (99276366..99291028, complement)
+MIM: 103700
+ID: 124
+
+22. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+23. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+24. A12M2
+adenovirus-12 chromosome modification site 1A [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1p
+Chromosome: 1; Location: 1p36
+This record was discontinued.
+ID: 5
+
+25. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+26. ACTG1
+Official Symbol: ACTG1 and Name: actin gamma 1 [Homo sapiens (human)]
+Other Aliases: ACT, ACTG, DFNA20, DFNA26, HEL-176
+Other Designations: actin, cytoplasmic 2; cytoskeletal gamma-actin; epididymis luminal protein 176
+Chromosome: 17; Location: 17q25.3
+Annotation: Chromosome 17 NC_000017.11 (81509971..81512866, complement)
+MIM: 102560
+ID: 71
+
+27. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+28. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+29. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+30. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+31. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+32. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+33. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+34. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+35. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+36. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+37. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+38. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+39. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+40. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+41. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+42. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+43. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+44. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+45. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+46. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+47. AOC1
+Official Symbol: AOC1 and Name: amine oxidase, copper containing 1 [Homo sapiens (human)]
+Other Aliases: ABP, ABP1, DAO, DAO1, KAO
+Other Designations: amiloride-sensitive amine oxidase [copper-containing]; amiloride binding protein 1 (amine oxidase (copper-containing)); amiloride-binding protein 1; amiloride-sensitive amine oxidase; amine oxidase copper domain-containing protein 1; diamine oxidase; histaminase; kidney amine oxidase
+Chromosome: 7; Location: 7q36.1
+Annotation: Chromosome 7 NC_000007.14 (150824875..150861291)
+MIM: 104610
+ID: 26
+
+48. ACADSB
+Official Symbol: ACADSB and Name: acyl-CoA dehydrogenase short/branched chain [Homo sapiens (human)]
+Other Aliases: 2-MEBCAD, ACAD7, SBCAD
+Other Designations: short/branched chain specific acyl-CoA dehydrogenase, mitochondrial; 2-methyl branched chain acyl-CoA dehydrogenase; 2-methylbutyryl-coenzyme A dehydrogenase; acyl-Coenzyme A dehydrogenase, short/branched chain
+Chromosome: 10; Location: 10q26.13
+Annotation: Chromosome 10 NC_000010.11 (123008913..123058290)
+MIM: 600301
+ID: 36
+
+49. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+50. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+51. AADAC
+Official Symbol: AADAC and Name: arylacetamide deacetylase [Homo sapiens (human)]
+Other Aliases: CES5A1, DAC
+Other Designations: arylacetamide deacetylase; arylacetamide deacetylase (esterase)
+Chromosome: 3; Location: 3q25.1
+Annotation: Chromosome 3 NC_000003.12 (151814008..151828488)
+MIM: 600338
+ID: 13
+
+52. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+53. AARS
+Official Symbol: AARS and Name: alanyl-tRNA synthetase [Homo sapiens (human)]
+Other Aliases: CMT2N, EIEE29
+Other Designations: alanine--tRNA ligase, cytoplasmic; alaRS; alanine tRNA ligase 1, cytoplasmic; alanyl-tRNA synthetase, cytoplasmic; renal carcinoma antigen NY-REN-42
+Chromosome: 16; Location: 16q22.1
+Annotation: Chromosome 16 NC_000016.10 (70252295..70289509, complement)
+MIM: 601065
+ID: 16
+
+54. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+55. ABCA1
+Official Symbol: ABCA1 and Name: ATP binding cassette subfamily A member 1 [Homo sapiens (human)]
+Other Aliases: ABC-1, ABC1, CERP, HDLDT1, TGD
+Other Designations: ATP-binding cassette sub-family A member 1; ATP-binding cassette transporter A1; ATP-binding cassette, sub-family A (ABC1), member 1; cholesterol efflux regulatory protein; membrane-bound
+Chromosome: 9; Location: 9q31.1
+Annotation: Chromosome 9 NC_000009.12 (104781002..104928246, complement)
+MIM: 600046
+ID: 19
+
+56. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+57. ABCA1
+Official Symbol: ABCA1 and Name: ATP binding cassette subfamily A member 1 [Homo sapiens (human)]
+Other Aliases: ABC-1, ABC1, CERP, HDLDT1, TGD
+Other Designations: ATP-binding cassette sub-family A member 1; ATP-binding cassette transporter A1; ATP-binding cassette, sub-family A (ABC1), member 1; cholesterol efflux regulatory protein; membrane-bound
+Chromosome: 9; Location: 9q31.1
+Annotation: Chromosome 9 NC_000009.12 (104781002..104928246, complement)
+MIM: 600046
+ID: 19
+
+58. A12M2
+adenovirus-12 chromosome modification site 1A [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1p
+Chromosome: 1; Location: 1p36
+This record was discontinued.
+ID: 5
+
+59. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+60. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+
+61. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+62. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+63. ABCA4
+Official Symbol: ABCA4 and Name: ATP binding cassette subfamily A member 4 [Homo sapiens (human)]
+Other Aliases: ABC10, ABCR, ARMD2, CORD3, FFM, RMP, RP19, STGD, STGD1
+Other Designations: retinal-specific ATP-binding cassette transporter; ATP binding cassette transporter; ATP-binding cassette sub-family A member 4; ATP-binding cassette transporter, retinal-specific; ATP-binding cassette, sub-family A (ABC1), member 4; ATP-binding transporter, retina-specific; RIM ABC transporter; RIM protein; photoreceptor rim protein; retina-specific ABC transporter; stargardt disease protein
+Chromosome: 1; Location: 1p22.1
+Annotation: Chromosome 1 NC_000001.11 (93992837..94121149, complement)
+MIM: 601691
+ID: 24
+
+64. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+65. AOC1
+Official Symbol: AOC1 and Name: amine oxidase, copper containing 1 [Homo sapiens (human)]
+Other Aliases: ABP, ABP1, DAO, DAO1, KAO
+Other Designations: amiloride-sensitive amine oxidase [copper-containing]; amiloride binding protein 1 (amine oxidase (copper-containing)); amiloride-binding protein 1; amiloride-sensitive amine oxidase; amine oxidase copper domain-containing protein 1; diamine oxidase; histaminase; kidney amine oxidase
+Chromosome: 7; Location: 7q36.1
+Annotation: Chromosome 7 NC_000007.14 (150824875..150861291)
+MIM: 104610
+ID: 26
+
+66. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+67. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+68. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+69. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+70. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+71. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+72. NATP
+Official Symbol: NATP and Name: N-acetyltransferase pseudogene [Homo sapiens (human)]
+Other Aliases: AACP1, NATP
+Other Designations: arylamide acetylase pseudogene
+Chromosome: 8; Location: 8p22
+Annotation: Chromosome 8 NC_000008.11 (18369910..18371878)
+ID: 11
+
+73. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+74. SERPINA3
+Official Symbol: SERPINA3 and Name: serpin family A member 3 [Homo sapiens (human)]
+Other Aliases: AACT, ACT, GIG24, GIG25
+Other Designations: alpha-1-antichymotrypsin; cell growth-inhibiting gene 24/25 protein; growth-inhibiting protein 24; growth-inhibiting protein 25; serine (or cysteine) proteinase inhibitor, clade A, member 3; serpin A3; serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3
+Chromosome: 14; Location: 14q32.13
+Annotation: Chromosome 14 NC_000014.9 (94612377..94624053)
+MIM: 107280
+ID: 12
+
+75. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+76. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+77. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+78. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+79. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+80. A12M2
+adenovirus-12 chromosome modification site 1A [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1p
+Chromosome: 1; Location: 1p36
+This record was discontinued.
+ID: 5
+
+81. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+82. A12M3
+adenovirus-12 chromosome modification site 1B [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q2
+Chromosome: 1; Location: 1q21
+This record was discontinued.
+ID: 6
+
+83. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+84. A12M4
+adenovirus-12 chromosome modification site 17 [Homo sapiens (human)]
+Chromosome: 17; Location: 17q21-q22
+This record was discontinued.
+ID: 7
+
+85. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+86. AA
+Official Symbol: AA and Name: atrophia areata, peripapillary chorioretinal degeneration [Homo sapiens (human)]
+Chromosome: 11; Location: 11p15
+This record was replaced with GeneID: 7003
+ID: 8
+
+87. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+88. NAT1
+Official Symbol: NAT1 and Name: N-acetyltransferase 1 [Homo sapiens (human)]
+Other Aliases: AAC1, MNAT, NAT-1, NATI
+Other Designations: arylamine N-acetyltransferase 1; N-acetyltransferase 1 (arylamine N-acetyltransferase); N-acetyltransferase type 1; arylamide acetylase 1; monomorphic arylamine N-acetyltransferase
+Chromosome: 8; Location: 8p22
+Annotation: Chromosome 8 NC_000008.11 (18170419..18223689)
+MIM: 108345
+ID: 9
+
+89. NAT1
+Official Symbol: NAT1 and Name: N-acetyltransferase 1 [Homo sapiens (human)]
+Other Aliases: AAC1, MNAT, NAT-1, NATI
+Other Designations: arylamine N-acetyltransferase 1; N-acetyltransferase 1 (arylamine N-acetyltransferase); N-acetyltransferase type 1; arylamide acetylase 1; monomorphic arylamine N-acetyltransferase
+Chromosome: 8; Location: 8p22
+Annotation: Chromosome 8 NC_000008.11 (18170419..18223689)
+MIM: 108345
+ID: 9
+
+90. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+91. NAT1
+Official Symbol: NAT1 and Name: N-acetyltransferase 1 [Homo sapiens (human)]
+Other Aliases: AAC1, MNAT, NAT-1, NATI
+Other Designations: arylamine N-acetyltransferase 1; N-acetyltransferase 1 (arylamine N-acetyltransferase); N-acetyltransferase type 1; arylamide acetylase 1; monomorphic arylamine N-acetyltransferase
+Chromosome: 8; Location: 8p22
+Annotation: Chromosome 8 NC_000008.11 (18170419..18223689)
+MIM: 108345
+ID: 9
+
+92. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+93. NAT1
+Official Symbol: NAT1 and Name: N-acetyltransferase 1 [Homo sapiens (human)]
+Other Aliases: AAC1, MNAT, NAT-1, NATI
+Other Designations: arylamine N-acetyltransferase 1; N-acetyltransferase 1 (arylamine N-acetyltransferase); N-acetyltransferase type 1; arylamide acetylase 1; monomorphic arylamine N-acetyltransferase
+Chromosome: 8; Location: 8p22
+Annotation: Chromosome 8 NC_000008.11 (18170419..18223689)
+MIM: 108345
+ID: 9
+
+94. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+95. NAT1
+Official Symbol: NAT1 and Name: N-acetyltransferase 1 [Homo sapiens (human)]
+Other Aliases: AAC1, MNAT, NAT-1, NATI
+Other Designations: arylamine N-acetyltransferase 1; N-acetyltransferase 1 (arylamine N-acetyltransferase); N-acetyltransferase type 1; arylamide acetylase 1; monomorphic arylamine N-acetyltransferase
+Chromosome: 8; Location: 8p22
+Annotation: Chromosome 8 NC_000008.11 (18170419..18223689)
+MIM: 108345
+ID: 9
+
+96. NAT1
+Official Symbol: NAT1 and Name: N-acetyltransferase 1 [Homo sapiens (human)]
+Other Aliases: AAC1, MNAT, NAT-1, NATI
+Other Designations: arylamine N-acetyltransferase 1; N-acetyltransferase 1 (arylamine N-acetyltransferase); N-acetyltransferase type 1; arylamide acetylase 1; monomorphic arylamine N-acetyltransferase
+Chromosome: 8; Location: 8p22
+Annotation: Chromosome 8 NC_000008.11 (18170419..18223689)
+MIM: 108345
+ID: 9
+
+97. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+98. AMY1C
+Official Symbol: AMY1C and Name: amylase, alpha 1C (salivary) [Homo sapiens (human)]
+Other Aliases: AMY1
+Other Designations: alpha-amylase 1; 1,4-alpha-D-glucan glucanohydrolase 1; amylase, salivary, alpha-1C; glycogenase; salivary alpha-amylase; salivary amylase alpha 1C
+Chromosome: 1; Location: 1p21.1
+Annotation: Chromosome 1 NC_000001.11 (103745430..103758692)
+MIM: 104702
+ID: 278
+
+99. CATHL5
+Official Symbol: CATHL5 and Name: cathelicidin 5 [Homo sapiens (human)]
+This record was discontinued.
+ID: 853
+
+100. CRYGEP1
+Official Symbol: CRYGEP1 and Name: crystallin, gamma E pseudogene 1 [Homo sapiens (human)]
+Other Aliases: CCL, CRYG5, D2S1472, G2
+Other Designations: cataract, Coppock-like
+Chromosome: 2; Location: 2q33-q35
+This record was replaced with GeneID: 200575
+ID: 1422
+
+101. LOC101928134
+uncharacterized LOC101928134 [Homo sapiens (human)]
+Chromosome: 15; Location: 15q13.3
+Annotation: Chromosome 15 NC_000015.10 (33303657..33310659, complement)
+ID: 101928134
+
+102. LOC101928135
+uncharacterized LOC101928135 [Homo sapiens (human)]
+Chromosome: 3; Location: 3p22.3
+Annotation: Chromosome 3 NC_000003.12 (34875795..35394023, complement)
+ID: 101928135
+
+103. LINC02198
+Official Symbol: LINC02198 and Name: long intergenic non-protein coding RNA 2198 [Homo sapiens (human)]
+Chromosome: 5; Location: 5q13.1
+Annotation: Chromosome 5 NC_000005.10 (68967741..69029927, complement)
+ID: 101928885
+
+104. LINC02428
+Official Symbol: LINC02428 and Name: long intergenic non-protein coding RNA 2428 [Homo sapiens (human)]
+Chromosome: 4; Location: 4q24
+Annotation: Chromosome 4 NC_000004.12 (103425042..103439728)
+ID: 101929448
+
+105. LOC101929679
+uncharacterized LOC101929679 [Homo sapiens (human)]
+Chromosome: 15; Location: 15q25.3
+Annotation: Chromosome 15 NC_000015.10 (85754941..85758725, complement)
+ID: 101929679
+
+106. LOC101929719
+uncharacterized LOC101929719 [Homo sapiens (human)]
+Chromosome: 5; Location: 5q31.3
+Annotation: Chromosome 5 NC_000005.10 (140157319..140168785)
+ID: 101929719
+
+107. LOC102723649
+uncharacterized LOC102723649 [Homo sapiens (human)]
+Chromosome: 6; Location: 6q23.3
+Annotation: Chromosome 6 NC_000006.12 (137665646..137674554)
+ID: 102723649
+
+108. LOC340357
+uncharacterized LOC340357 [Homo sapiens (human)]
+Chromosome: 8; Location: 8p23.1-p22
+Annotation: Chromosome 8 NC_000008.11 (12765849..12811478, complement)
+ID: 340357
+
+109. CASP17P
+Official Symbol: CASP17P and Name: caspase 17, pseudogene [Homo sapiens (human)]
+Other Designations: caspase 4, apoptosis-related cysteine peptidase pseudogene
+Chromosome: 11; Location: 11q22.3
+Annotation: Chromosome 11 NC_000011.10 (104901549..104918175, complement)
+ID: 643733
+
+110. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+111. A12M3
+adenovirus-12 chromosome modification site 1B [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q2
+Chromosome: 1; Location: 1q21
+This record was discontinued.
+ID: 6
+
+112. A12M3
+adenovirus-12 chromosome modification site 1B [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q2
+Chromosome: 1; Location: 1q21
+This record was discontinued.
+ID: 6
+
+113. A12M2
+adenovirus-12 chromosome modification site 1A [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1p
+Chromosome: 1; Location: 1p36
+This record was discontinued.
+ID: 5
+
+114. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+115. A12M1
+adenovirus-12 chromosome modification site 1C [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q1
+Chromosome: 1; Location: 1q42-q43
+This record was discontinued.
+ID: 4
+
+116. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+117. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+118. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+119. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+120. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+
+121. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+122. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+123. A12M3
+adenovirus-12 chromosome modification site 1B [Homo sapiens (human)]
+Other Designations: Adenovirus-12 chromosome modification site-1q2
+Chromosome: 1; Location: 1q21
+This record was discontinued.
+ID: 6
+
+124. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+125. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+126. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+127. A2M
+Official Symbol: A2M and Name: alpha-2-macroglobulin [Homo sapiens (human)]
+Other Aliases: A2MD, CPAMD5, FWP007, S863-7
+Other Designations: alpha-2-macroglobulin; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5; alpha-2-M
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9067708..9116229, complement)
+MIM: 103950
+ID: 2
+
+128. A2MP1
+Official Symbol: A2MP1 and Name: alpha-2-macroglobulin pseudogene 1 [Homo sapiens (human)]
+Other Aliases: A2MP
+Other Designations: pregnancy-zone protein pseudogene
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (9228533..9234207, complement)
+ID: 3
+
+129. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+130. ABL1
+Official Symbol: ABL1 and Name: ABL proto-oncogene 1, non-receptor tyrosine kinase [Homo sapiens (human)]
+Other Aliases: ABL, CHDSKM, JTK7, bcr/abl, c-ABL, c-ABL1, p150, v-abl
+Other Designations: tyrosine-protein kinase ABL1; ABL protooncogene 1 nonreceptor tyrosine kinase; Abelson tyrosine-protein kinase 1; bcr/c-abl oncogene protein; c-abl oncogene 1, receptor tyrosine kinase; proto-oncogene c-Abl; proto-oncogene tyrosine-protein kinase ABL1; truncated ABL protooncogene 1 nonreceptor tyrosine kinase; v-abl Abelson murine leukemia viral oncogene homolog 1
+Chromosome: 9; Location: 9q34.12
+Annotation: Chromosome 9 NC_000009.12 (130713881..130887675)
+MIM: 189980
+ID: 25
+
+131. ACO1
+Official Symbol: ACO1 and Name: aconitase 1 [Homo sapiens (human)]
+Other Aliases: ACONS, HEL60, IREB1, IREBP, IREBP1, IRP1
+Other Designations: cytoplasmic aconitate hydratase; aconitase 1, soluble; aconitate hydratase, cytoplasmic; citrate hydro-lyase; cytoplasmic aconitase; cytosplasmic aconitase; epididymis luminal protein 60; epididymis secretory sperm binding protein; ferritin repressor protein; iron regulatory protein 1; iron-responsive element-binding protein 1; soluble aconitase
+Chromosome: 9; Location: 9p21.1
+Annotation: Chromosome 9 NC_000009.12 (32384603..32450836)
+MIM: 100880
+ID: 48
+
+132. A1BG
+Official Symbol: A1BG and Name: alpha-1-B glycoprotein [Homo sapiens (human)]
+Other Aliases: A1B, ABG, GAB, HYST2477
+Other Designations: alpha-1B-glycoprotein; HEL-S-163pA; epididymis secretory sperm binding protein Li 163pA
+Chromosome: 19; Location: 19q13.43
+Annotation: Chromosome 19 NC_000019.10 (58346806..58353499, complement)
+MIM: 138670
+ID: 1
+
+133. ACACB
+Official Symbol: ACACB and Name: acetyl-CoA carboxylase beta [Homo sapiens (human)]
+Other Aliases: ACC2, ACCB, HACC275
+Other Designations: acetyl-CoA carboxylase 2; ACC-beta; acetyl-Coenzyme A carboxylase beta
+Chromosome: 12; Location: 12q24.11
+Annotation: Chromosome 12 NC_000012.12 (109112666..109268226)
+MIM: 601557
+ID: 32
+
+
