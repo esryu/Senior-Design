@@ -1,3 +1,4 @@
+
 from Bio import Entrez, SeqIO
 import sys
 def geneScraper():
@@ -5,10 +6,14 @@ def geneScraper():
 	Entrez.email = "sprinkle2love@gmail.com"
 	f = open(file, "r")
 	lines = f.readlines()
-	result = ""
+	results = []
 	for line in lines:
-		result = result + (line.split('	')[1]) + ","
-	handle = Entrez.efetch(db="Gene",id=result, rettype="gb",retmode="text")
+		gene = line.split('\t')[1]
+                if gene not in results:
+
+                    results.append(gene)
+        resultString = ','.join(results)
+	handle = Entrez.efetch(db="Gene",id=resultString, rettype="gb",retmode="text")
 	#handle = Entrez.efetch(db="gene",id="APOC1P1",rettype="gb",retmode="text")
 	print handle.read()
 	handle.close()
