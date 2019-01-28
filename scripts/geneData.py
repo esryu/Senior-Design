@@ -12,8 +12,21 @@ if __name__ == "__main__":
 
     data = requests.get(url)
 
-    root = xml.etree.ElementTree.parse(data.text).getroot()
+    tree = xml.etree.ElementTree.fromstring(data.content)
 
-    for info in root.tag('Gene-ref'):
+    print(tree.find('./Entrezgene/Entrezgene_gene/Gene-ref_locus').text)
 
-        print(info)
+    #for element in tree.findall('./*/*'):
+
+        #print(element.tag)
+
+    #for element in tree.iter():
+
+        #if element.tag == 'Gene-ref_locus':
+
+            #print(element.__dict__.keys())
+            #print(element.text)
+
+    #for info in root.tag('Gene-ref'):
+
+        #print(info)
