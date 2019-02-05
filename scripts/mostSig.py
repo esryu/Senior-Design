@@ -2,6 +2,7 @@
 
 import os,sys
 import glob
+from geneData import *
 
 '''
 A Script to Find the Top 100 upregulated and downregulated genes from
@@ -19,11 +20,25 @@ def outputTop(outdir,fileName,up,down,header):
 
     uFile = open(upFile,'w+')
 
+    header = header.rstrip() + '\tDescription\tSummary\n'
+
     uFile.write(header)
 
     for i in range(min(len(up),100)):
 
-        uFile.write('{}\n'.format('\t'.join(up[i])))
+        name = up[i][0]
+
+        print(name)
+
+        data = geneData(name)
+
+        print(data)
+
+        desc = data[name][0]
+
+        summ = data[name][1]
+
+        uFile.write('{}\t{}\t{}\n'.format('\t'.join(up[i]),desc,summ))
 
     uFile.close()
 
@@ -38,6 +53,24 @@ def outputTop(outdir,fileName,up,down,header):
 
     dFile.close()
 
+def splitGeneList(genes):
+
+    for subList in [genes[x:x+100] for x in range(0, len(genes), 100)]:
+
+        yield subList
+
+
+def getGeneData(genes):
+
+    geneDataDict = {}
+
+    for geneList in splitGeneList(genes):
+
+        data = geneData(geneList)
+
+        geneDataDict.update(data)
+
+    return geneDataDict
 
 def parseGeneExp(inFile):
 
@@ -45,6 +78,10 @@ def parseGeneExp(inFile):
     up = []
     down = []
 
+    #initialize a list of gene IDs
+    genes = []
+
+    #Open and read the contents of the file
     contents = open(inFile,'r').readlines()
 
     header,contents = contents[0],contents[1:]
@@ -53,13 +90,16 @@ def parseGeneExp(inFile):
 
         fields = line.rstrip().split()
 
+        if fields[0] not in genes:
+
+            genes.append(fields[0])
+
         if fields[-1] == 'yes':
 
-            if fields[9] == '-inf':
+            #if fields[9] == '-inf':
 
-                pass
+                #pass
 
-                #print(line.rstrip())
 
             if float(fields[9]) > 0:
 
@@ -73,7 +113,7 @@ def parseGeneExp(inFile):
     s_down = sorted(down,key=(lambda x: abs(float(x[9]))),reverse=True)
 
 
-    return header, s_up, s_down
+    return header, s_up, s_down,genes
 
 def getFileName(file):
 
@@ -104,6 +144,6 @@ if __name__ == "__main__":
 
         fileName = getFileName(file)
 
-        header, up,down = parseGeneExp(file)
+        header,up,down,genes = parseGeneExp(file)
 
         outputTop(outdir,fileName,up,down,header)
