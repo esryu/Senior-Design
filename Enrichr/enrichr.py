@@ -52,18 +52,44 @@ def enrich(data, libraries, txtfile):
     user_list_id = data['userListId']
     #gene_set_library = 'KEGG_2015'
     writtenFile = open(txtfile, 'w')
+    libraryScores = []
 
-    libraryData = []
+    libraryData = {}
+
+    libraryScores = []
     for library in libraries:
         response = requests.get(
             ENRICHR_URL + query_string % (user_list_id, library)
             )
         data = json.loads(response.text)
-        libraryData.append(data)
-        print("Done with " + library)
-        writtenFile.write(str(data) + "\n")
-        if not response.ok:
-            raise Exception('Error fetching enrichment results')
+        for key, values in data.items():
+
+            combinedScore = -1
+
+            try:
+
+                combinedScore = values[0][4]
+            except IndexError:
+
+                print(key,values)
+                
+            libraryData[key] = values
+            tupleScore = (key, combinedScore)
+            print(tupleScore)
+            libraryScores.append(tupleScore)
+
+
+        #print(libraryData)
+        #print(libraryData)
+        #print("Done with " + library + '\n\n')
+    sortedLibraries = sorted(libraryScores,key=lambda x: x[1],reverse=True)
+    print(sortedLibraries)
+    sortedFile = open('sortedLibraries.txt','w+')
+    sortedFile.write('{}\t{}\n'.format(x[0],str(x[1])) for x in sortedLibraries)
+    writtenFile.write(str(data) + "\n")
+    if not response.ok:
+        raise Exception('Error fetching enrichment results')
+
 
     writtenFile.close()
 
