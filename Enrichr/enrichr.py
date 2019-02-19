@@ -67,6 +67,17 @@ def enrich(data, libraries, txtfile):
 
     writtenFile.close()
 
+    return libraryData
+
+def pullCombinedScore(term):
+    return term[0][4]
+
+def sortCombinedScores(enrichrData):
+    newSortedList = []
+    enrichrData.sort(key=pullCombinedScore)
+    return 0
+
+
 
 if __name__ == "__main__":
 
@@ -80,7 +91,7 @@ if __name__ == "__main__":
     libraryList = libraryListConverter(libraries)
     addedList = addList(geneList)
     viewAddedList(addedList)
-    enrich(addedList, libraryList, nameOfLibraryDataFile)
+    fileToSort = enrich(addedList, libraryList, nameOfLibraryDataFile)
 
 
     '''
@@ -91,3 +102,4 @@ if __name__ == "__main__":
         header, up,down = parseGeneExp(file)
 
         outputTop(outdir,fileName,up,down,header)
+    '''
