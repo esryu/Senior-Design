@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<title>RNA Comparison</title>
+
+
+</head>
+<body>
+<br><br><br>
+<div class="container">
+<div class="py-5 text-center">
+	<img class="d-block mx-auto mb-4" src="icon.png" alt width="72" height="72">
+	<h2><b>Dermal Papilla RNA Seq Comparison</b></h2>
+	<p class="lead">
+		Although hair loss is often more seen as cosmetic rather than medical, hair loss is a condition that a large percentage of the population have to struggle with at all ages.  This bioinformatic tool will provide statistical analysis on RNA Seq data from dermal papilla.
+	</p>
+</div>
+<form class="form-horizontal " >
+
+<div class="form-group">
+<div class="col-md-2"></div>
+	<legend class="col-md-8"><b>Input Data:</b></legend>
+	</div>
+<div class="form-group">
+	<label class="col-md-4 control-label">Upload Files:</label>
+	<div class="col-md-4 inputGroupContainer">
+		<div class="input-group">
+		<input type="file" class="form-control-file" id="file">
+		</div>
+	</div>
+</div>
+<div class="form-group">
+	<label class="col-md-4 control-label">Enter gene:</label>
+	
+	<div class="col-md-4 inputGroupContainer">
+	<div class="input-group">
+		<span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
+		<input type="text" class="form-control" name="gene" placeholder="Search">
+	</div>
+	</div>
+</div>
+<div class="form-group">
+	<label class="col-md-4 control-label"># Genes:</label>
+	
+	<div class="col-md-4 inputGroupContainer">
+	<div class="input-group">
+		<span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
+		<input type="text" class="form-control" name="number" placeholder="Number">
+	</div>
+	</div>
+</div>
+
+<div class="form-group">
+	<label class="col-md-4 control-label"></label>
+	<div class="col-md-4">
+		<button type="submit" class="btn btn-warning">Submit</button>
+	</div>
+</div>
+</form>
+</div>
+</body>
+</html>

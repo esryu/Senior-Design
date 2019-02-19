@@ -9,7 +9,7 @@ A Script to Find the Top 100 upregulated and downregulated genes from
 Cuffdiff output files
 '''
 
-def outputTop(outdir,fileName,up,down,header):
+def outputTop(outdir,fileName,up,down,header,data):
 
     if not os.path.exists(outdir):
 
@@ -27,12 +27,6 @@ def outputTop(outdir,fileName,up,down,header):
     for i in range(min(len(up),100)):
 
         name = up[i][0]
-
-        print(name)
-
-        data = geneData(name)
-
-        print(data)
 
         desc = data[name][0]
 
@@ -66,7 +60,7 @@ def getGeneData(genes):
 
     for geneList in splitGeneList(genes):
 
-        data = geneData(geneList)
+        data = geneData(','.join(geneList))
 
         geneDataDict.update(data)
 
@@ -78,8 +72,6 @@ def parseGeneExp(inFile):
     up = []
     down = []
 
-    #initialize a list of gene IDs
-    genes = []
 
     #Open and read the contents of the file
     contents = open(inFile,'r').readlines()
@@ -90,15 +82,7 @@ def parseGeneExp(inFile):
 
         fields = line.rstrip().split()
 
-        if fields[0] not in genes:
-
-            genes.append(fields[0])
-
         if fields[-1] == 'yes':
-
-            #if fields[9] == '-inf':
-
-                #pass
 
 
             if float(fields[9]) > 0:
@@ -112,8 +96,17 @@ def parseGeneExp(inFile):
     s_up = sorted(up,key=(lambda x: abs(float(x[9]))),reverse=True)
     s_down = sorted(down,key=(lambda x: abs(float(x[9]))),reverse=True)
 
+    s_up_100 = s_up[0:100]
+    s_down_100 = s_down[0:100]
 
-    return header, s_up, s_down,genes
+    genes = set()
+
+    genes.update([x[0] for x in s_up_100])
+    genes.update([x[0] for x in s_down_100])
+
+    print(genes)
+
+    return header, s_up_100, s_down_100,list(genes)
 
 def getFileName(file):
 
@@ -146,4 +139,6 @@ if __name__ == "__main__":
 
         header,up,down,genes = parseGeneExp(file)
 
-        outputTop(outdir,fileName,up,down,header)
+        data = getGeneData(genes)
+
+        outputTop(outdir,fileName,up,down,header,data)

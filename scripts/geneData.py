@@ -33,12 +33,23 @@ def iterateTree(tree):
 
 def getGeneName(gene):
 
-    return gene.find('Entrezgene_gene/Gene-ref/Gene-ref_locus').text
+    try:
 
+        return gene.find('Entrezgene_gene/Gene-ref/Gene-ref_locus').text
+
+    except:
+
+        return 'None'
 
 def getGeneDesc(gene):
 
-    return gene.find('Entrezgene_gene/Gene-ref/Gene-ref_desc').text
+    try:
+
+        return gene.find('Entrezgene_gene/Gene-ref/Gene-ref_desc').text
+
+    except:
+
+        return 'None'
 
 def getGeneSummary(gene):
 
@@ -71,4 +82,3 @@ if __name__ == "__main__":
     tree = sendRequests(genes)
 
     iterateTree(tree)
-
