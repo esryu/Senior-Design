@@ -1,0 +1,1 @@
+[u'SERPINA11', u'COLEC12', u'COL15A1', u'PTPRR', u'TNFAIP6', u'WFIKKN1', u'MRGPRF', u'TRHDE', u'COMP', u'NPPC', u'GLT1D1', u'BMPER', u'TSPAN8', u'KRT28', u'CA6', u'GPC5', u'CD34', u'TGM3', u'GRID1', u'KRT75', u'IL17RB', u'KRT72', u'PIP', u'AMTN', u'GHRL', u'LYG2', u'ALDOB', u'FGF13', u'SCRG1', u'CBLN1']

@@ -62,6 +62,8 @@ def enrich(data, libraries, txtfile):
             ENRICHR_URL + query_string % (user_list_id, library)
             )
         data = json.loads(response.text)
+        writtenFile.write(str(data) + "\n")
+
         for key, values in data.items():
 
             combinedScore = -1
@@ -72,7 +74,7 @@ def enrich(data, libraries, txtfile):
             except IndexError:
 
                 print(key,values)
-                
+
             libraryData[key] = values
             tupleScore = (key, combinedScore)
             print(tupleScore)
@@ -85,13 +87,14 @@ def enrich(data, libraries, txtfile):
     sortedLibraries = sorted(libraryScores,key=lambda x: x[1],reverse=True)
     print(sortedLibraries)
     sortedFile = open('sortedLibraries.txt','w+')
+    writtenFile.close()
+
     sortedFile.write('{}\t{}\n'.format(x[0],str(x[1])) for x in sortedLibraries)
-    writtenFile.write(str(data) + "\n")
+    sortedFile.close()
     if not response.ok:
         raise Exception('Error fetching enrichment results')
 
 
-    writtenFile.close()
 
     return libraryData
 
