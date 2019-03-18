@@ -7,6 +7,12 @@ import re
 A Parser for the Output of DAVID (run through R DAVIDWEBSERVICE library)
 '''
 
+def getGOCategory(catgory):
+
+    level = re.match('GOTERM_(.+)_FAT',catgory)
+
+    return level.groups()[0]
+
 def getGoID(goterm):
 
     goID,goName = goterm.split('~')
@@ -44,7 +50,8 @@ def iterateList(contents):
 
                 clusterIDs.append(cNum)
 
-                clusters[cNum] = {'escore':-1,'go':{'terms':[],'values':{}},
+                clusters[cNum] = {'escore':-1,'geneset':set(),
+                                'go':{'terms':{},'values':{}},
                                 'pathway':{'terms':[],'values':{}}}
 
 
@@ -62,37 +69,53 @@ def iterateList(contents):
 
                 fields = contents[i].split('\t')
 
-                if fields[0] != 'KEGG_PATHWAY':
+                if float(fields[4]) <= 0.05:
 
-                    goID,goName = getGoID(fields[1])
+                    if fields[0] != 'KEGG_PATHWAY':
 
-                    if goID not in clusters[cNum]['go']['terms']:
+                        category = getGOCategory(fields[0])
 
-                        clusters[cNum]['go']['terms'].append(goID)
+                        goID,goName = getGoID(fields[1])
+
+                        if category not in clusters[cNum]['go']['terms']:
+
+                            clusters[cNum]['go']['terms'][category] = []
+
+                        if goID not in clusters[cNum]['go']['terms'][category]:
+
+                            clusters[cNum]['go']['terms'][category].append(goID)
+
+                        clusters[cNum]['geneset'].update(','.split(fields[5]))
+
+                        vals = [fields[0],goName] + fields[2:]
+            
+                        clusters[cNum]['go']['values'][goID] = vals
+
+                    else:
+
+                        id,name = getKegg(fields[1])
+
+                        if id not in clusters[cNum]['pathway']['terms']:
+
+                            clusters[cNum]['pathway']['terms'].append(id)
 
 
-                    vals = [fields[0],goName] + fields[2:]
-                    clusters[cNum]['go']['values'][goID] = vals
-
-                else:
-
-                    id,name = getKegg(fields[1])
-
-                    if id not in clusters[cNum]['pathway']['terms']:
-
-                        clusters[cNum]['pathway']['terms'].append(id)
-
-
-                    vals = [name] + fields[2:]
-                    clusters[cNum]['pathway']['values'] = vals
+                        vals = [name] + fields[2:]
+                        clusters[cNum]['pathway']['values'][id] = vals
 
 
                 i += 1
 
-
         i += 1
 
     return clusterIDs,clusters
+
+def getDavidInfo(infile):
+
+    contents = [x.rstrip() for x in open(infile,'r').readlines()]
+
+    return iterateList(contents)
+
 
 if __name__ == "__main__":
 

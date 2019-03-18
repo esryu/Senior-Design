@@ -21,31 +21,37 @@ def findValue(goIDs,val):
 
     return
 
-def plotGO(clusterIDs,clusters):
+
+def plotGO(clusterIDs,clusters,outdir,base):
 
     obodag = GODag("../../obo/go.obo")
 
 
-
     for id in clusterIDs:
 
-        success = False
+        geneset = clusters[id]['geneset']
 
         goIDs = clusters[id]['go']['terms']
 
-        while not success:
+        for category in goIDs.keys():
 
-            try:
+            success = False
 
-                plot_gos("../../img/CvF/up/CvF_up_{}.png".format(id), goIDs,obodag)
+            ids = goIDs[category]
 
-                success = True
+            while not success:
 
-            except KeyError as e:
+                try:
 
-                value = str(e).replace("'",'')
+                    plot_gos("{}/{}_{}_{}.png".format(outdir,base,id,category),ids,obodag)
 
-                goIDs.remove(value)
+                    success = True
+
+                except KeyError as e:
+
+                    value = str(e).replace("'",'')
+
+                    goIDs.remove(value)
 
 
 
@@ -57,9 +63,11 @@ def getDavid(infile):
 if __name__ == "__main__":
 
     infile = sys.argv[1]
+    outdir = sys.argv[2]
+    base = sys.argv[3]
 
-    #outdir = sys.argv[2]
+
 
     clusterIDs,clusters = getDavid(infile)
 
-    plotGO(clusterIDs,clusters)
+    plotGO(clusterIDs,clusters,outdir,base)
